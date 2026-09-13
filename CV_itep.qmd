@@ -2,6 +2,7 @@
 format:
   html:
     toc: false
+    output-file: index.html
   pdf:
     toc: true
 ---
