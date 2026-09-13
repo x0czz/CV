@@ -1,0 +1,99 @@
+---
+format:
+  html:
+    toc: false
+  pdf:
+    toc: true
+---
+
+# Nicolás Eduardo Outerbridge Ortega
+
+Sociología, Universidad de Chile
+
+[nicolas.outerbridge\@ug.uchile.cl](mailto:nicolas.outerbridge@ug.uchile.cl) \| [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-eduardo-outerbridge-17a382343/) \| Cel. (+56 9) 984575530
+
+[Proyectos Aquí](https://github.com/x0czz)
+
+## Resumen
+
+Sociólogo en formación con particular interés en la metodología de investigación para la generación de conocimiento. Me oriento a comprender como las decisiones metodológicas influyen en la calidad, transparencia y pertinencia de los resultados del proceso investigativo. Mis principales intereses son los métodos estadísticos, y actualmente investigo temas relacionados a la cohesión social, el consumo politico, y meritocracia.
+
+## Educación
+
+**2023 – 2027 · Universidad de Chile** Sociología. Santiago, Chile
+
+**2020 – 2023 · UNIACC** Danza y coreografía - Sin terminar. Santiago, Chile
+
+## Experiencia laboral
+
+**Universidad de Chile** · *2026 – Presente*\
+**Cargo:** Ayudante de investigación\
+**Proyecto:** Fondecyt "Justicia de Mercado y Merecimiento del Bienestar Social", a cargo del profesor Juan Carlos Castillo.\
+Santiago, Chile
+
+**Escuela de Trabajo Social, Universidad de Chile** · *2025 – Presente*\
+**Cargo:** Asistente de investigación\
+*Fondecyt "El consumo y las formas de lo político", a cargo del profesor Alejandro Marambio.*\
+**Tareas:** Elaboración de modelos estadísticos, revisión de literatura, redacción académica y análisis cuantitativo.\
+Santiago, Chile
+
+**Instituto de Sociología UC** · *2025 – 2026*\
+**Cargo:** Analista de datos\
+*Fondecyt "El costo de maternar", a cargo de la profesora Tania Hutt.*\
+**Tareas:** Realización de pruebas de robustez para experimentos conjoint.\
+Santiago, Chile
+
+**Instituto de Sociología UC** · *2025 – 2026*\
+**Cargo:** Desarrollador R\
+**Tareas:** Desarrollo de paquetes y funciones de R para armonización de la encuesta CASEN, a cargo del profesor Mauricio Bucca.\
+Santiago, Chile
+
+**Laboratorio de Investigación Social Abierta, COES** · *2024 – 2025*\
+**Cargo:** Pasante\
+**Tareas:** Visualización y reporte de análisis estadístico, además de redacción académica.\
+Santiago, Chile
+
+**Universidad Academia de Humanismo Cristiano** · *2024 – 2025*\
+**Cargo:** Profesor asistente\
+**Tareas:** Diseño e impartición del electivo de danzas urbanas para la carrera de danza. Cátedra a cargo de Danilo Núñez.\
+Santiago, Chile
+
+## Actividades académicas
+
+**Departamento de Sociología, Universidad de Chile** · *2025 – Presente*\
+**Cargo:** Ayudante para las cátedras de:
+
+- Estadística Descriptiva (2025) — Profesor a cargo: PhD Rodrigo Asún
+- Estadística Correlacional (2025) — Profesor a cargo: PhD Juan Carlos Castillo
+- Estadística Correlacional (2026) — Profesor a cargo: PhD Juan Carlos Castillo
+- Estadística Multivariada (2026) — Profesora a cargo: PhD Karina Navarro
+- Estrategias de Investigación Cuantitativa (2025) — Profesor a cargo: PhD Pablo Pérez
+- Estrategias de Investigación Cuantitativa (2026) — Profesor a cargo: PhD Mauricio Salgado
+- Estrategias de Investigación Cualitativa (2026) — Profesora a cargo: PhD Sofía Donoso
+
+**Tareas:** Apoyo docente en las cátedras indicadas.\
+Santiago, Chile
+
+## Actividades extracurriculares
+
+**Independiente** · *2019 – Actual*\
+**Cargo:** Bailarín\
+**Tareas:** Clases, interpretación y montaje escénico.\
+Santiago, Chile
+
+## Competencias
+
+**Idiomas:** Inglés Avanzado
+
+**Software:** Programación R (Avanzado), Python (básico), GitHub.
+
+**Análisis cuantitativo:** R (Avanzado), SPSS (Avanzado), Excel (Avanzado), STATA.
+
+**Análisis cualitativo:** Atlas.ti (Básico)
+
+## Referencias
+
+- **Alejandro Marambio** — Profesor de la Escuela de Trabajo Social UCH. [alejandro.marambio\@uchile.cl](mailto:alejandro.marambio@uchile.cl)
+- **Gabriel Cortés** — Asistente de gestión, Dirección de Investigación FACSO. [gab.cortes97\@gmail.com](mailto:gab.cortes97@gmail.com)
+- **Tania Hutt** — Profesora del Instituto de Sociología UC. [tania.hutt\@uc.cl](mailto:tania.hutt@uc.cl)
+- **Mauricio Bucca** — Profesor del Instituto de Sociología UC. [mebucca\@gmail.com](mailto:mebucca@gmail.com)
