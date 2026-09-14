@@ -11,7 +11,7 @@ format:
 
 Sociología, Universidad de Chile
 
-[nicolas.outerbridge\@ug.uchile.cl](mailto:nicolas.outerbridge@ug.uchile.cl) \| [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-eduardo-outerbridge-17a382343/) \| Cel. (+56 9) 984575530
+[nicolas.outerbridge\@ug.uchile.cl](mailto:nicolas.outerbridge@ug.uchile.cl) \| [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-eduardo-outerbridge-17a382343/) \| Cel. (+56 9) 3353 0725
 
 [Proyectos Aquí](https://github.com/x0czz)
 
@@ -93,9 +93,19 @@ Santiago, Chile
 
 **Análisis cualitativo:** Atlas.ti (Básico)
 
+**Cursos optativos cursados:** Análisis de Datos Multinivel; Modelos de Ecuaciones Estructurales; Métodos Computacionales para las Ciencias Sociales; Ciencia Social Abierta; Teoría Fundamentada; Investigación de Mercado y Asuntos Públicos.
+
+**Certificaciones:**
+
+[Análisis de datos con programación en R.](https://www.coursera.org/account/accomplishments/verify/MV6X4NTP0JKN)
+
+[Claves para la igualdad de género](https://www.coursera.org/account/accomplishments/specialization/certificate/3JYIR1A2G19Y)
+
+
 ## Referencias
 
 - **Alejandro Marambio** — Profesor de la Escuela de Trabajo Social UCH. [alejandro.marambio\@uchile.cl](mailto:alejandro.marambio@uchile.cl)
 - **Gabriel Cortés** — Asistente de gestión, Dirección de Investigación FACSO. [gab.cortes97\@gmail.com](mailto:gab.cortes97@gmail.com)
 - **Tania Hutt** — Profesora del Instituto de Sociología UC. [tania.hutt\@uc.cl](mailto:tania.hutt@uc.cl)
 - **Mauricio Bucca** — Profesor del Instituto de Sociología UC. [mebucca\@gmail.com](mailto:mebucca@gmail.com)
+- **Juan Carlos Castillo** — Profesor del Departamento de Sociología UCH. [juancastillov@uchile.cl](mailto:juancastillov@uchile.cl)
