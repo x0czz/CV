@@ -101,16 +101,21 @@ Santiago, Chile
 
 [Claves para la igualdad de género](https://www.coursera.org/account/accomplishments/specialization/certificate/3JYIR1A2G19Y)
 
+## Autoría
+
+- Castillo, J. C., **Outerbridge, N.**, & Urzúa, T. (2026). *Manual metodológico de Encuesta EDUMER*. Zenodo. <https://doi.org/10.5281/zenodo.23397511>
+- Marambio-Tapia, A., & **Outerbridge Ortega, N.** (2026). *Medición de prácticas de consumo socioambientales en Chile: evidencia psicométrica preliminar de dos escalas breves* [Preprint]. [x0czz.github.io/Validacion-consumo](https://x0czz.github.io/Validacion-consumo/preprints/Marambio_Outerbridge_2026_medicion_preprint.pdf)
+
 ## Proyectos en curso
 
 - **Medición de prácticas de consumo socioambientales en Chile: evidencia psicométrica preliminar de dos escalas breves.** Análisis factorial (exploratorio y confirmatorio) e Invarianza. Con Alejandro Marambio.
 - **Perfiles de prácticas de consumo socioambientales en Chile: un análisis de clases latentes.** Con Alejandro Marambio.
-- **Análisis del experimento distribucional de la encuesta panel EDUMER (ola 2): esfuerzo, oportunidad y reparto de décimas.**
+- **Análisis del experimento distribucional de la encuesta panel EDUMER (ola 2): esfuerzo, oportunidad y reparto de décimas.** Con Juan Carlos Castillo.
 
 ## Referencias
 
+- **Juan Carlos Castillo** — Profesor del Departamento de Sociología UCH. [juancastillov@uchile.cl](mailto:juancastillov@uchile.cl)
+- **Mauricio Bucca** — Profesor del Instituto de Sociología UC. [mebucca\@gmail.com](mailto:mebucca@gmail.com)
+- **Tania Hutt** — Profesora del Instituto de Sociología UC. [tania.hutt\@uc.cl](mailto:tania.hutt@uc.cl)
 - **Alejandro Marambio** — Profesor de la Escuela de Trabajo Social UCH. [alejandro.marambio\@uchile.cl](mailto:alejandro.marambio@uchile.cl)
 - **Gabriel Cortés** — Asistente de gestión, Dirección de Investigación FACSO. [gab.cortes97\@gmail.com](mailto:gab.cortes97@gmail.com)
-- **Tania Hutt** — Profesora del Instituto de Sociología UC. [tania.hutt\@uc.cl](mailto:tania.hutt@uc.cl)
-- **Mauricio Bucca** — Profesor del Instituto de Sociología UC. [mebucca\@gmail.com](mailto:mebucca@gmail.com)
-- **Juan Carlos Castillo** — Profesor del Departamento de Sociología UCH. [juancastillov@uchile.cl](mailto:juancastillov@uchile.cl)
